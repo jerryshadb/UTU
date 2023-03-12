@@ -9,3 +9,5 @@ academically
 younger student stumble 
 across this repo in the future, I strongly recommend you don't copy-paste anything -- although that goes without 
 saying, right :')?
+
+Study guide from which courses are from: https://opas.peppi.utu.fi/en/programme/91470?period=2022-2024
